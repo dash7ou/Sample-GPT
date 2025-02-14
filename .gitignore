@@ -1,2 +1,5 @@
 openwebtext/*
 model-*
+v2/*.txt
+*.json
+v1/openwebtext/*.txt
